@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "title": "aaa",
+      "price": "22",
+      "imageUrl": "https://picsum.photos/536/354",
+      "id": 4
+    },
+    {
+      "title": "aaaqq",
+      "price": "221",
+      "imageUrl": "https://picsum.photos/536/354",
+      "id": 5
+    }
+  ]
+}
